@@ -145,6 +145,16 @@ lightonly {
   visibility: visible;
 }
 
+.notestyle {
+  color:#595959
+}
+
+@media (prefers-color-scheme: dark) {
+    .notestyle {
+      color:#dadbdf
+    }
+}
+
 darkonly {
   visibility: hidden;
 }
