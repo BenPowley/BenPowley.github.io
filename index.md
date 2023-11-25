@@ -4,20 +4,6 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I am a Ph.D. Student at Victoria University of Wellington studying computer science. My thesis is titled "Immersive visualization for ecosystem services analysis and trade-offs". My research interests are Immersive Analytics, Data Visualization, Human Computer Interaction, and Human Centered Computing. I am passionate about doing interdisciplinary research using real world environmental and geospatial data to make a positive difference to science and decision making.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}

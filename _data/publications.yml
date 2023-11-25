@@ -1,22 +1,39 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Immersive visualization for ecosystem services analysis
+    authors: Powley, B. T., Anslow, C., De Róiste, M. & Marshall, S. 
+    conference_short: VRST 
+    conference: ACM Symposium on Virtual Reality Software and Technology <strong>(VRST)</strong>, 2023
+    doi: https://doi.org/10.1145/3611659.3617197
+    doi_number: 10.1145/3611659.3617197
+    bibtex: https://doi.org/10.1145/3611659.3617197
+    image: ./assets/img/Screenshot 2023-11-08 180550.png
+    notes: Demonstration
+  
+  - title: Web Based Visualization of Air Quality Data with Interconnected Windows
+    authors: Powley, B. T., Anslow, C., & Pearce, D. J
+    conference_short: EnvirVis
+    conference: Workshop on Visualisation in Environmental Sciences <strong>(EnvirVis)</strong>. The Eurographics Association, 2022
+    pdf: https://diglib.eg.org/bitstream/handle/10.2312/envirvis20221055/019-026.pdf?sequence=1&isAllowed=y
+    doi: https://doi.org/10.2312/envirvis.20221055 
+    doi_number: 10.2312/envirvis.20221055 
+    bibtex: https://doi.org/10.2312/envirvis.20221055 
+    image: ./assets/img/atmovis.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "&#91;DC&#93;Immersive Analytics for Understanding Ecosystem Services Tradeoffs"
+    authors: Powley, B. T.
+    conference_short: VRW
+    conference: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops <strong>(VRW)</strong>, 2022
+    doi: https://doi.org/10.1109/VRW55335.2022.00319
+    doi_number: 10.1109/VRW55335.2022.00319
+    bibtex:  https://doi.org/10.1109/VRW55335.2022.00319
+    image: ./assets/img/VrHeadset.png
+    notes: Doctoral Consortium Paper
+
+  - title:  Exploring Immersive and Non-Immersive Techniques for Geographic Data Visualization
+    authors: Powley, B. T.
+    conference: IEEE Symposium on Visual Languages and Human-Centric Computing <strong>(VL/HCC)</strong>, 2020
+    doi: https://doi.org/10.1109/VL/HCC50065.2020.9127197 
+    doi_number: 10.1109/VL/HCC50065.2020.9127197
+    bibtex: https://doi.org/10.1109/VL/HCC50065.2020.9127197 
+    notes:  Graduate Consortium paper
