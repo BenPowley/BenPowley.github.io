@@ -28,7 +28,7 @@ main:
     doi_number: 10.1109/VRW55335.2022.00319
     bibtex:  https://doi.org/10.1109/VRW55335.2022.00319
     image: ./assets/img/VrHeadset.png
-    notes: Doctoral Consortium Paper
+    notes: Doctoral Consortium
 
   - title:  Exploring Immersive and Non-Immersive Techniques for Geographic Data Visualization
     authors: Powley, B. T.
@@ -36,4 +36,4 @@ main:
     doi: https://doi.org/10.1109/VL/HCC50065.2020.9127197 
     doi_number: 10.1109/VL/HCC50065.2020.9127197
     bibtex: https://doi.org/10.1109/VL/HCC50065.2020.9127197 
-    notes:  Graduate Consortium paper
+    notes:  Graduate Consortium
