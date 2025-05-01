@@ -1,5 +1,15 @@
 main:
 
+  - title: Immersive Analytics for Understanding Ecosystem Services Data
+    authors: Powley, B. T., Anslow, C., De Róiste, M. & Marshall, S.
+    conference_short: IEEEVR 
+    conference: IEEE Conference Virtual Reality and 3D User Interfaces <strong>(IEEE VR)</strong>, 2025
+    doi:  https://doi.org/10.1109/VR59515.2025.00079
+    doi_number: 10.1109/VR59515.2025.00079
+    bibtex: https://doi.org/10.1109/VR59515.2025.00079
+    image: ./assets/img/vr-landscape.png
+    notes: Full paper
+
   - title: Immersive visualization for ecosystem services analysis
     authors: Powley, B. T., Anslow, C., De Róiste, M. & Marshall, S. 
     conference_short: VRST 

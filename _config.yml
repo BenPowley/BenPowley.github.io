@@ -1,8 +1,8 @@
 # Basic Information 
 title: Benjamin Powley
-position: Ph.D. Student
-affiliation: Victoria University of Wellington, New Zealand
-email: benjamin.powley(at)ecs.vuw.ac.nz
+position: Postdoctoral Researcher
+affiliation: Linnaeus University, Växjö, Sweden
+email: benjamin.powley(at)lnu.se
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -15,7 +15,7 @@ canonical:
 #google_scholar: https://scholar.google.com/
 #github_link: https://github.com/
 #linkedin: https://www.linkedin.com/
-cv_link: assets/files/CV.pdf
+#cv_link: assets/files/CV.pdf
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
